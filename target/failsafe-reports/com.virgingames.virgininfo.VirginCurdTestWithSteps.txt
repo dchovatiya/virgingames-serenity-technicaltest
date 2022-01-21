@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.virgingames.virgininfo.VirginCurdTestWithSteps
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.013 sec <<< FAILURE! - in com.virgingames.virgininfo.VirginCurdTestWithSteps
+createBingoRecord(com.virgingames.virgininfo.VirginCurdTestWithSteps)  Time elapsed: 0.007 sec  <<< ERROR!
+java.lang.NullPointerException: null
+	at com.virgingames.virgininfo.VirginCurdTestWithSteps.createBingoRecord(VirginCurdTestWithSteps.java:30)
+

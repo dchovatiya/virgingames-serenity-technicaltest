@@ -1,0 +1,5 @@
+com\virgingames\testbase\TestBase.class
+com\virgingames\virgininfo\BingoGetTest.class
+com\virgingames\virgininfo\GetDefaultGameFrequency.class
+com\virgingames\virgininfo\VirginCurdTestWithSteps.class
+com\virgingames\virgininfo\BingoPostTest.class
